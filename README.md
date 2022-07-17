@@ -6,7 +6,7 @@
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
         <a href="https://chat.whatsapp.com/+923025053671">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/kidzworldpk">Youtube Channel</a>
+        <a href="https://www.youtube.com/c/kidzworldpk">Youtube Channel</a>
     <br>
 </p>
 
@@ -31,10 +31,10 @@
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/PubgQueens/VODIFLIX/">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/PubgQueens/VODIFLIX/">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
@@ -42,11 +42,11 @@
 
 <p align="center">
 
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/PubgQueens/VODIFLIX/">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
+  <a href="https://github.com/PubgQueens/VODIFLIX/">
     <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
     
   </a>
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/PubgQueens/VODIFLIX/">
     <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
 
   </a>
